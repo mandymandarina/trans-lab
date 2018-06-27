@@ -1,0 +1,9 @@
+.btn {
+  display: block;
+  width: 100em;
+  margin:1em;
+  background-color: #f6a800;
+  border:  #f6a800; 
+  text-align: center;    
+  border-radius: 0;
+}
